@@ -1,0 +1,9 @@
+c:\users\fargusonm\documents\visual studio 2013\Projects\UnixAdd\UnixAdd\bin\Debug\UnixAdd.exe.config
+c:\users\fargusonm\documents\visual studio 2013\Projects\UnixAdd\UnixAdd\bin\Debug\UnixAdd.exe
+c:\users\fargusonm\documents\visual studio 2013\Projects\UnixAdd\UnixAdd\bin\Debug\UnixAdd.pdb
+c:\users\fargusonm\documents\visual studio 2013\Projects\UnixAdd\UnixAdd\obj\Debug\UnixAdd.csprojResolveAssemblyReference.cache
+c:\users\fargusonm\documents\visual studio 2013\Projects\UnixAdd\UnixAdd\obj\Debug\UnixAdd.Form1.resources
+c:\users\fargusonm\documents\visual studio 2013\Projects\UnixAdd\UnixAdd\obj\Debug\UnixAdd.Properties.Resources.resources
+c:\users\fargusonm\documents\visual studio 2013\Projects\UnixAdd\UnixAdd\obj\Debug\UnixAdd.csproj.GenerateResource.Cache
+c:\users\fargusonm\documents\visual studio 2013\Projects\UnixAdd\UnixAdd\obj\Debug\UnixAdd.exe
+c:\users\fargusonm\documents\visual studio 2013\Projects\UnixAdd\UnixAdd\obj\Debug\UnixAdd.pdb
