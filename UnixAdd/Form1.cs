@@ -50,7 +50,8 @@ namespace UnixAdd
             lblInstructions.Text = "ok";
             System.Threading.Thread.Sleep(1000);
             MessageBox.Show("Double click form to change cliboard of windows address" 
-            + " to unix friendly address for GitBash. It will be automatically changed on your cliboard..");                
+            + " to unix friendly address for GitBash. It will be automatically changed on your cliboard..");
+            lblInstructions.Text = "help";
         }
        
     }
